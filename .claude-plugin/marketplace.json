@@ -1,0 +1,21 @@
+{
+  "name": "rags",
+  "description": "Local RAG knowledge-base plugins — each plugin is an Obsidian wiki vault with hybrid retrieval (BM25 + rerank)",
+  "owner": {
+    "name": "Ihar Lapukhou",
+    "email": "ihar.lapukhou@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "rag-jtbd",
+      "source": {
+        "source": "github",
+        "repo": "lapukhou/rag-jtbd"
+      },
+      "description": "Jobs-to-be-Done knowledge base: Anthony Ulwick's 'Jobs to Be Done: Theory to Practice' (2016) — JTBD theory, ODI process, case studies.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["jtbd", "odi", "rag", "knowledge-base"]
+    }
+  ]
+}
