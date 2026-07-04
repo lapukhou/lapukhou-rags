@@ -1,5 +1,5 @@
 {
-  "name": "rags",
+  "name": "lapukhou-rags",
   "description": "Local RAG knowledge-base plugins — each plugin is an Obsidian wiki vault with hybrid retrieval (BM25 + rerank)",
   "owner": {
     "name": "Ihar Lapukhou",
