@@ -17,5 +17,5 @@ Claude Code plugin marketplace for local RAG knowledge-base plugins. Each plugin
 Install with:
 
 ```
-/plugin install rag-jtbd@rags
+/plugin install rag-jtbd@lapukhou-rags
 ```
