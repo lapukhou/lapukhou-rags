@@ -16,6 +16,17 @@
       "version": "1.0.0",
       "license": "MIT",
       "keywords": ["jtbd", "odi", "rag", "knowledge-base"]
+    },
+    {
+      "name": "rag-octalysis",
+      "source": {
+        "source": "github",
+        "repo": "lapukhou/rag-octalysis"
+      },
+      "description": "Octalysis gamification knowledge base: Yu-kai Chou's 'Actionable Gamification' — 8 Core Drives, game techniques, White Hat vs Black Hat design, case studies.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["octalysis", "gamification", "core-drives", "rag", "knowledge-base"]
     }
   ]
 }
