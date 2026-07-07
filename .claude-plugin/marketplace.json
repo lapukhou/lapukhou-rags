@@ -27,6 +27,17 @@
       "version": "1.0.0",
       "license": "MIT",
       "keywords": ["octalysis", "gamification", "core-drives", "rag", "knowledge-base"]
+    },
+    {
+      "name": "rag-growth-web",
+      "source": {
+        "source": "github",
+        "repo": "lapukhou/rag-growth-web"
+      },
+      "description": "Web growth knowledge base: web funnels, paid acquisition, onboarding, monetization, funnel analytics, growth process, and compliance — from the WFC course.",
+      "version": "1.0.2",
+      "license": "MIT",
+      "keywords": ["growth", "web-funnels", "paid-ads", "onboarding", "monetization", "funnel-analysis", "rag", "knowledge-base"]
     }
   ]
 }
