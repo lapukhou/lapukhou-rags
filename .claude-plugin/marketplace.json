@@ -38,6 +38,17 @@
       "version": "1.0.2",
       "license": "MIT",
       "keywords": ["growth", "web-funnels", "paid-ads", "onboarding", "monetization", "funnel-analysis", "rag", "knowledge-base"]
+    },
+    {
+      "name": "rag-miracle-morning",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lapukhou/rag-miracle-morning.git"
+      },
+      "description": "Miracle Morning knowledge base: Hal Elrod's 'The Miracle Morning' (Updated & Expanded Edition) — SAVERS practices, wake-up strategy, 30-day habit change, Miracle Evening and Miracle Life.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["miracle-morning", "hal-elrod", "savers", "morning-routine", "habits", "self-development", "rag", "knowledge-base"]
     }
   ]
 }
